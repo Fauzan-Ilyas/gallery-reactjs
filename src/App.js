@@ -5,8 +5,8 @@ import Gallery from './Gallery';
 function App() {
   return (
     <>
-    <h1 style={{textAlign: 'center'}}>Image Gallery</h1>
-    <h2 style={{textAlign: 'center'}}>Subscribe</h2>
+    <h1 style={{textAlign: 'center'}}>Gallery</h1>
+    <h2 style={{textAlign: 'center'}}>Anime Aestetic</h2>
     <Gallery />
     </>
   );
